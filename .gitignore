@@ -1,0 +1,4 @@
+.idea
+.private
+__pycache__
+*.py

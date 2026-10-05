@@ -1,0 +1,13 @@
+.gitattributes eol=lf
+.gitignore eol=lf
+.gitmodules eol=lf
+
+*.md eol=lf
+*.json eol=lf
+
+*.bin binary
+*.bmg binary
+*.bitm binary
+*.pat binary
+*.png binary
+*.jpg binary
