@@ -70,7 +70,7 @@ During the preservation process, a couple uncertainties have been identified:
 |  45   | Creepy crystal   |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  46   | Creepy carpet    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  47   | Creepy stone     |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
-|  48   | Greepy statue    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  48   | Creepy statue    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  49   | Creepy cauldron  |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  50   | Creepy clock     |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
 |  51   | Creepy wallpaper |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
@@ -128,7 +128,7 @@ During the preservation process, a couple uncertainties have been identified:
 |  49   | Creepy crystal   |        🚧        |        ❌         |        ❌        |
 |  50   | Creepy carpet    |        ❌         |        ❌         |        ❌        |
 |  51   | Creepy stone     |        ✔️        |        ❌         |        ❌        |
-|  52   | Greepy statue    |        ❌         |        ❌         |        ❌        |
+|  52   | Creepy statue    |        ❌         |        ❌         |        ❌        |
 |  53   | Creepy cauldron  |        🚧        |        ❌         |        ❌        |
 |  54   | Creepy clock     |        ✔️        |        ❌         |        ❌        |
 |  55   | Creepy wallpaper |        ✔️        |        ❌         |        ❌        |
