@@ -5,7 +5,7 @@ suggest that the application was built upon a tool previously developed specific
 files is an archive containing 256 item data files in the proprietary ``BITM`` format. These files include the 94 DLC
 items along with duplicates of the cardboard box item used as fillers for unused slots. Curiously, three items that 
 Nintendo never officially released via WiiConnect24 were discovered thanks to these extracted files: the blue Pikmin, 
-red Pikmin, and red headgear. All of these made their official debut in *Animal Crossing: New Leaf*.
+yellow Pikmin, and red headgear. All of these made their official debut in *Animal Crossing: New Leaf*.
 
 The table below lists all 256 item slots, including each slot's internal name from the Zelda application, the item's 
 unique inventory ID and its American English name. All dumped item BITM files can be found [in the items folder](items).
