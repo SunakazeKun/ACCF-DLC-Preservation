@@ -18,7 +18,7 @@ During the preservation process, a couple uncertainties have been identified:
 - The "snowman head" was distributed again in North America in December 2010. The English letter text matches the 2009 distribution as shown [in this video by 97MiloProductions](https://www.youtube.com/watch?v=xjQE9R1snbE).
 - [Player reports on The Bell Tree Forums](https://web.archive.org/web/20250831162149/https://www.belltreeforums.com/threads/new-us-dlc-candy.54363/) indicate that the candy distributed in September 2009 was either red, blue, or green. There appear to be no reports of yellow candy being distributed during this period.
 - Additionally, it remains unconfirmed whether individual letter texts were used for each candy color of if a single generic letter was used across all distributed colors.
-- Screenshots for the "creepy crystal" and "creepy cauldron" from KirbyCrossing's YouTube channel appear to have been edited to show North American letter bodies. The header and footer text shown are likely inaccurate, as Nintendo of America (NoA) used a different formatting style for creepy item distributions.
+- Screenshots for the "creepy crystal" and "creepy cauldron" from videos on KirbyCrossing's YouTube channel appear to have been edited to show North American letter bodies. The header and footer texts shown are likely inaccurate, as Nintendo of America (NoA) used a different formatting style for creepy item distributions.
 
 ## Europe/Australia (``p``)
 | Index | Item             | English (``en``) | German (``de``) | Italian (``it``) | Spanish (``es``) | French (``fr``) |
