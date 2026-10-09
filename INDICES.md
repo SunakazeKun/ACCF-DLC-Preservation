@@ -32,7 +32,7 @@ and marked in parentheses.
 |  14   | (Wii locker)       |                  |       | (Golden bed)               |
 |  15   | (Anniversary cake) |                  |       | (Anniversary cake)         |
 |  16   | (Festive wreath)   |                  |       | (Golden chair)             |
-|  17   | (Tam o'shanter)    |                  |       | (Golden dresser)           |
+|  17   | Tam o'shanter      |                  |       | (Golden dresser)           |
 |  18   | (Pavé clock)       |                  |       | (Golden table)             |
 |  19   | Egg TV             |                  |       | (Golden closet)            |
 |  20   | (Gracie dresser)   | Wildflower floor |       | (Golden wallpaper)         |
@@ -55,8 +55,8 @@ and marked in parentheses.
 |  37   | (Snowman vanity)   | Golden screen    |       | (Creepy stone)             |
 |  38   | (Pavé clock)       | Golden bench     |       | (Creepy statue)            |
 |  39   | (Egg TV)           | Golden clock     |       | (Creepy cauldron)          |
-|  40   | (Sweets player?)   | Golden carpet    |       | (Creepy clock)             |
-|  41   | (Gracie dresser?)  | Snowman vanity   |       | (Creepy wallpaper)         |
+|  40   | (Sweets player)    | Golden carpet    |       | (Creepy clock)             |
+|  41   | (Gracie dresser)   | Snowman vanity   |       | (Creepy wallpaper)         |
 |  42   | (Creepy coffin)    | Pavé clock       |       | (Mush hanger)              |
 |  43   | (Creepy bat stone) | Egg TV           |       | (Jingle TV)                |
 |  44   | (Creepy skeleton)  | Sweets player    |       |                            |

@@ -42,7 +42,7 @@ During the preservation process, a couple uncertainties have been identified:
 |  14   | Wii locker       |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  15   | Anniversary cake |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  16   | Festive wreath   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  17   | Tam o'shanter    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  17   | Tam o'shanter    |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
 |  18   | Pavé clock       |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  19   | Egg TV           |        🚧        |       ✔️        |        ❌         |        ❌         |        ❌        |
 |  20   | Gracie dresser   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
