@@ -1,4 +1,6 @@
 # Items
+![Many DLC items](images/players_dlc_items.jpg)
+
 Successfully preserving all 94 official DLC items was relatively straightforward. The extracted files of *The Legend 
 of Zelda: Skyward Sword Save Data Update Channel* contain several ACCF assets. In fact, several pieces of information 
 suggest that the application was built upon a tool previously developed specifically for ACCF. Among the channel's 

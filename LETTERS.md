@@ -1,4 +1,6 @@
 # Letters
+![A letter from Nintendo](images/players_nintendo_letter.jpg)
+
 All items were received in a letter from Nintendo that was hand-delivered by Pete. This page lists all distributed
 letters, including those for non-DLC items (e.g. "chocolate heart") and recurring item releases (e.g. "snowman head").
 
