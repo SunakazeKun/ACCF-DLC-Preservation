@@ -27,8 +27,8 @@ and marked in parentheses.
 |   9   | (GameCube dresser) |                  |       | (White police cap)         |
 |  10   | (Labrador model)   |                  |       | (Maple umbrella)           |
 |  11   | (Chihuahua model)  |                  |       | (Tteok plate)              |
-|  12   | (Dachshund model)  |                  |       | (Red nose)                 |
-|  13   | (Dalmatian model)  |                  |       | (Festive wreath)           |
+|  12   | (Dachshund model)  | Pile of leaves   |       | (Red nose)                 |
+|  13   | (Dalmatian model)  | Election poster  |       | (Festive wreath)           |
 |  14   | (Wii locker)       |                  |       | (Golden bed)               |
 |  15   | (Anniversary cake) |                  |       | (Anniversary cake)         |
 |  16   | (Festive wreath)   |                  |       | (Golden chair)             |

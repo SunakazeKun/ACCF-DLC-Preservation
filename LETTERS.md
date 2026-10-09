@@ -83,18 +83,18 @@ During the preservation process, a couple uncertainties have been identified:
 ## North America (``e``)
 | Index | Item             | English (``us``) | Spanish (``mx``) | French (``qc``) |
 |:-----:|:-----------------|:----------------:|:----------------:|:---------------:|
-|   ?   | Shamrock hat     |        🚧        |        🚧        |        ❌        |
-|   ?   | Red Pikmin       |        🚧        |        🚧        |        ❌        |
+|   ?   | Shamrock hat     |        ✔️        |        🚧        |        ❌        |
+|   ?   | Red Pikmin       |        ✔️        |        🚧        |        ❌        |
 |   ?   | Nintendo DSi B   |        ✔️        |        🚧        |        ❌        |
 |   ?   | 1,000 Bells      |        ✔️        |        🚧        |        ❌        |
-|   ?   | Bus model        |        🚧        |        🚧        |        ❌        |
+|   ?   | Bus model        |        ✔️        |        🚧        |        ❌        |
 |   ?   | Hot dog hat      |        ✔️        |        🚧        |        ❌        |
 |   ?   | Dolphin model    |        🚧        |        🚧        |        ❌        |
 |   ?   | Ladder shades    |        🚧        |        ❌         |        ❌        |
 |   ?   | Hopscotch floor  |        ✔️        |        ❌         |        ❌        |
 |   ?   | GameCube dresser |        🚧        |        ❌         |        ❌        |
-|   ?   | Pile of leaves   |        🚧        |        ❌         |        ❌        |
-|   ?   | Election poster  |        🚧        |        ❌         |        ❌        |
+|  12   | Pile of leaves   |        ✔️        |        ❌         |        ❌        |
+|  13   | Election poster  |        ✔️        |        ✔️        |       ✔️        |
 |   ?   | Anniversary cake |        🚧        |        ❌         |        ❌        |
 |   ?   | Shopping cart    |        🚧        |        ❌         |        ❌        |
 |   ?   | Nintendo DS Lite |        🚧        |        ❌         |        ❌        |
