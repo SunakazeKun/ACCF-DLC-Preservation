@@ -10,7 +10,7 @@ have already been preserved. That said, there's still a lot left to preserve.
 **If you played the game between 2008-2013, there's a good chance that your save data could contain DLC-related data.
 You can contribute by sharing your save data or, if you wish to keep your save private or are unable to dump your save,
 by providing screenshots. Below you can find an overview of information we are still missing as well as methods to dump
-your save data. Feel free to reach out on my Discord server (https://discord.gg/C3px4rejUX) or via e-mail
+your save data. Feel free to reach out [on my Discord server](https://discord.gg/C3px4rejUX) or via e-mail
 ([aurumsmods@gmail.com](mailto:aurumsmods@gmail.com)). With a few steps, you can easily contribute to this
 preservation effort. Huge thanks in advance!**
 
