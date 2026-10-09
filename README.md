@@ -38,7 +38,7 @@ Luckily, to contribute to this project, there's not much you'd have to do. **All
 you can make a backup of your console's NAND. **In case you need help performing these steps or to send me save data,
 feel free to contact me ([Discord](https://discord.gg/C3px4rejUX), [e-mail](mailto:aurumsmods@gmail.com))!**
 
-I'm looking forward to your help! Thank you!
+I'm looking forward to your help. Thank you!
 
 ### With console modding
 #### Requirements
@@ -58,7 +58,7 @@ Channel to extract save data to your SD card. After that, there should be two fi
 ### Without console modding
 #### Requirements
 - An ACCF/ACLGttC disc is **only required when taking screenshots**.
-- An SD card formatted to FAT32 with at least 20 MB free space.
+- An SD card formatted to FAT32 with at least 600 MB free space.
 - A way of accessing the SD card on your computer.
 - A Wii console on version 3.0 or newer.
 
