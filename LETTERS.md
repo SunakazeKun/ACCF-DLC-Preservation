@@ -47,21 +47,21 @@ During the preservation process, a couple uncertainties have been identified:
 |  19   | Egg TV           |        🚧        |       ✔️        |        ❌         |        ❌         |        ❌        |
 |  20   | Gracie dresser   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  21   | Sweets player    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  22   | Mush hanger      |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  23   | Snowman vanity   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  22   | Mush hanger      |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  23   | Snowman vanity   |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  24   | Jingle TV        |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  25   | Golden bed       |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  26   | Golden chair     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  27   | Golden dresser   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  28   | Golden table     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  29   | Golden closet    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  30   | Golden wallpaper |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  30   | Golden wallpaper |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  31   | Golden man       |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  32   | Golden woman     |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  33   | Golden screen    |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
 |  34   | Golden bench     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  35   | Golden clock     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  36   | Golden carpet    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  36   | Golden carpet    |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
 |  37   | Snowman vanity   |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  38   | Pavé clock       |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  39   | Egg TV           |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
@@ -78,7 +78,7 @@ During the preservation process, a couple uncertainties have been identified:
 |  50   | Creepy clock     |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
 |  51   | Creepy wallpaper |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  52   | Mush hanger      |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
-|  53   | Jingle TV        |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
+|  53   | Jingle TV        |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
 
 ## North America (``e``)
 | Index | Item             | English (``us``) | Spanish (``mx``) | French (``qc``) |

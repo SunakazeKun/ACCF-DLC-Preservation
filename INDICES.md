@@ -45,13 +45,13 @@ and marked in parentheses.
 |  27   | (Golden dresser)   |                  |       | (Snowman vanity)           |
 |  28   | (Golden table)     |                  |       | (Pavé clock)               |
 |  29   | (Golden closet)    | Golden bed       |       | (Egg TV)                   |
-|  30   | (Golden wallpaper) | Golden chair     |       | (Sweets player)            |
+|  30   | Golden wallpaper   | Golden chair     |       | (Sweets player)            |
 |  31   | (Golden man)       | Golden dresser   |       | (Gracie dresser)           |
 |  32   | Golden woman       | Golden table     |       | (Creepy coffin)            |
 |  33   | Golden screen      | Golden closet    |       | (Creepy bat stone)         |
 |  34   | (Golden bench)     | Golden wallpaper |       | (Creepy skeleton)          |
 |  35   | (Golden clock)     | Golden man       |       | (Creepy crystal)           |
-|  36   | (Golden carpet)    | Golden woman     |       | (Creepy carpet)            |
+|  36   | Golden carpet      | Golden woman     |       | (Creepy carpet)            |
 |  37   | (Snowman vanity)   | Golden screen    |       | (Creepy stone)             |
 |  38   | (Pavé clock)       | Golden bench     |       | (Creepy statue)            |
 |  39   | (Egg TV)           | Golden clock     |       | (Creepy cauldron)          |
@@ -68,7 +68,7 @@ and marked in parentheses.
 |  50   | Creepy clock       | Creepy carpet    |       |                            |
 |  51   | (Creepy wallpaper) | Creepy stone     |       |                            |
 |  52   | (Mush hanger)      | Creepy statue    |       |                            |
-|  53   | (Jingle TV)        | Creepy cauldron  |       |                            |
+|  53   | Jingle TV          | Creepy cauldron  |       |                            |
 |  54   |                    | Creepy clock     |       |                            |
 |  55   |                    | Creepy wallpaper |       |                            |
 |  56   |                    | Mush hanger      |       |                            |

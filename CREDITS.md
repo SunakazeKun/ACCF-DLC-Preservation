@@ -12,6 +12,7 @@ individuals helped in making these restorations possible.
 - Komojo
 - Peardude
 - Piers
+- PlutosSpirit
 - Totavier
 
 Further, a lot of letter screenshots were taken from various internet media, including:
