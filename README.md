@@ -26,8 +26,8 @@ preservation effort. Huge thanks in advance!**
 will be helpful for preservation.
 
 - All Nintendo letters that are currently missing. See the [letters page](LETTERS.md) for the current status.
-- **Japan-exclusive design "Kintaro apron"** (きんたろうのはらがけ). Recreations exist, but I need to extract authentic data from save data.
-- Official **Canadian French** names for the **Mayor's flag** and **guard's flag** designs as they appeared in-game.
+- **Japan-exclusive design Kintaro apron** (きんたろうのはらがけ). Recreations exist, but I need to extract authentic data from save data.
+- Official **Canadian French** names for the **Mayor's flag** and **guard's uniform** designs as they appeared in-game.
 
 ![](images/players_nintendo_letter.jpg) ![](images/promo_kintaro_apron.jpg) ![](images/promo_mayors_flag.jpg) ![](images/promo_guards_uniform.jpg)
 
