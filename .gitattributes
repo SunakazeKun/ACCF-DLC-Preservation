@@ -3,6 +3,7 @@
 .gitmodules eol=lf
 
 *.md eol=lf
+*.yml eol=lf
 *.json eol=lf
 
 *.bin binary

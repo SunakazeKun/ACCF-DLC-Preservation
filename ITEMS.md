@@ -10,7 +10,8 @@ Nintendo never officially released via WiiConnect24 were discovered thanks to th
 yellow Pikmin, and red headgear. All of these made their official debut in *Animal Crossing: New Leaf*.
 
 The table below lists all 256 item slots, including each slot's internal name from the Zelda application, the item's 
-unique inventory ID and its American English name. All dumped item BITM files can be found [in the items folder](items).
+unique inventory ID and its American English name. All dumped item BITM files can be found
+[in the items folder](https://github.com/SunakazeKun/ACCF-DLC-Preservation/tree/main/items).
 
 | Slot ID | Slot name           | Tokenized ID | Item name        |
 |:-------:|---------------------|:------------:|------------------|

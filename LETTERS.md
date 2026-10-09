@@ -11,9 +11,10 @@ have been discovered are marked with a construction sign (🚧). Any letters tha
 effort are marked with a red cross (❌).
 
 Extracted letters are stored as JSON files, while screenshotted letters are stored as JPG images. Preserved letters are 
-located in the [letters](letters) directory. Files are sorted by region, release index, language, and item name. For 
-example, the German letter for the European release of the "creepy clock" is named ``p_50_de_creepy_clock``. If the 
-release index is unknown, ``xx`` is used as a placeholder in the file name (e.g. ``j_xx_jp_tokonoma``).
+located in the [letters](https://github.com/SunakazeKun/ACCF-DLC-Preservation/tree/main/letters) directory. Files are
+sorted by region, release index, language, and item name. For example, the German letter for the European release of
+the "creepy clock" is named ``p_50_de_creepy_clock``. If the release index is unknown, ``xx`` is used as a placeholder
+in the file name (e.g. ``j_xx_jp_tokonoma``).
 
 During the preservation process, a couple uncertainties have been identified:
 - Some sources claim the "Nintendo DSi W" item was distributed in North America in 2010. However, no applicable sources have reliably confirmed this release.
