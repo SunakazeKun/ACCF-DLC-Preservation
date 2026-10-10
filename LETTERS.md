@@ -108,7 +108,7 @@ During the preservation process, a couple uncertainties have been identified:
 |   ?   | Kapp'n model     |        ❌         |        ❌         |        ❌        |
 |   ?   | Wii locker       |        ✔️        |        ❌         |        ❌        |
 |   ?   | Snowman head     |        ✔️        |        ❌         |        ❌        |
-|  29   | Golden bed       |        🚧        |        ❌         |        ❌        |
+|  29   | Golden bed       |        ✔️        |        ❌         |        ❌        |
 |  30   | Golden chair     |        🚧        |        ❌         |        ❌        |
 |  31   | Golden dresser   |        🚧        |        ❌         |        ❌        |
 |  32   | Golden table     |        🚧        |        ❌         |        ❌        |
@@ -123,7 +123,7 @@ During the preservation process, a couple uncertainties have been identified:
 |  41   | Snowman vanity   |        ❌         |        ❌         |        ❌        |
 |  42   | Pavé clock       |        ✔️        |        ❌         |        ❌        |
 |  43   | Egg TV           |        ✔️        |        ❌         |        ❌        |
-|  44   | Sweets player    |        ✔️        |        ❌         |        ❌        |
+|  44   | Sweets player    |        ✔️        |        ✔️        |       ✔️        |
 |  45   | Gracie dresser   |        ✔️        |        ❌         |        ❌        |
 |  46   | Creepy coffin    |        ❌         |        ❌         |        ❌        |
 |  47   | Creepy bat stone |        ❌         |        ❌         |        ❌        |
