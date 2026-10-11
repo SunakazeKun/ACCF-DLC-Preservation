@@ -76,7 +76,7 @@ During the preservation process, a couple uncertainties have been identified:
 |  48   | Creepy statue    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  49   | Creepy cauldron  |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  50   | Creepy clock     |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
-|  51   | Creepy wallpaper |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
+|  51   | Creepy wallpaper |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
 |  52   | Mush hanger      |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  53   | Jingle TV        |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
 

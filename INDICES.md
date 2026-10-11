@@ -66,7 +66,7 @@ and marked in parentheses.
 |  48   | (Creepy statue)    | (Creepy skeleton)  |       |                            |
 |  49   | (Creepy cauldron)  | (Creepy crystal)   |       |                            |
 |  50   | Creepy clock       | (Creepy carpet)    |       |                            |
-|  51   | (Creepy wallpaper) | Creepy stone       |       |                            |
+|  51   | Creepy wallpaper   | Creepy stone       |       |                            |
 |  52   | (Mush hanger)      | (Creepy statue)    |       |                            |
 |  53   | Jingle TV          | (Creepy cauldron)  |       |                            |
 |  54   |                    | (Creepy clock)     |       |                            |

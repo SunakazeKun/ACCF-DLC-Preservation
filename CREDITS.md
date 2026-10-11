@@ -11,6 +11,7 @@ individuals helped in making these restorations possible.
 - Joons Choi
 - Kodadehondachtige
 - Komojo
+- LilyBloomVee
 - Peardude
 - Piers
 - PlutosSpirit
