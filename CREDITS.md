@@ -9,14 +9,14 @@ individuals helped in making these restorations possible.
 - emilyosaurus
 - Fewffwa
 - Joons Choi
-- Kodadehondachtige
 - Komojo
 - LilyBloomVee
+- Pascal Leroi
 - Peardude
 - Piers
 - PlutosSpirit
 - Totavier
-- viledisgorgement
+- Vile
 
 Further, a lot of letter screenshots were taken from various internet media, including:
 - Web blogs:
