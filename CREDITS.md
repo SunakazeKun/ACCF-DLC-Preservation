@@ -15,6 +15,7 @@ individuals helped in making these restorations possible.
 - Piers
 - PlutosSpirit
 - Totavier
+- viledisgorgement
 
 Further, a lot of letter screenshots were taken from various internet media, including:
 - Web blogs:

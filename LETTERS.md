@@ -26,14 +26,12 @@ During the preservation process, a couple uncertainties have been identified:
 ## Europe/Australia (``p``)
 | Index | Item             | English (``en``) | German (``de``) | Italian (``it``) | Spanish (``es``) | French (``fr``) |
 |:-----:|:-----------------|:----------------:|:---------------:|:----------------:|:----------------:|:---------------:|
-|   1   | Red Pikmin       |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   1   | Red Pikmin       |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   2   | Shamrock hat     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   3   | Nintendo DSi W   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   4   | Flamenco hat     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   5   | Bus model        |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   6   | Green headgear   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|   7   | Sand castle      |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   7   | Sand castle      |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   8   | Eiffel Tower     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   9   | GameCube dresser |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
@@ -72,7 +70,6 @@ During the preservation process, a couple uncertainties have been identified:
 |  42   | Creepy coffin    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  43   | Creepy bat stone |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  44   | Creepy skeleton  |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  45   | Creepy crystal   |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  45   | Creepy crystal   |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
 |  46   | Creepy carpet    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  47   | Creepy stone     |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
@@ -98,12 +95,12 @@ During the preservation process, a couple uncertainties have been identified:
 |   ?   | GameCube dresser |        🚧        |        ❌         |        ❌        |
 |  12   | Pile of leaves   |        ✔️        |        ❌         |        ❌        |
 |  13   | Election poster  |        ✔️        |        ✔️        |       ✔️        |
-|   ?   | Anniversary cake |        🚧        |        ❌         |        ❌        |
-|   ?   | Shopping cart    |        🚧        |        ❌         |        ❌        |
-|   ?   | Nintendo DS Lite |        🚧        |        ❌         |        ❌        |
-|   ?   | Snowman head     |        ✔️        |        ❌         |        ❌        |
-|   ?   | Fedora chair     |        ✔️        |        ❌         |        ❌        |
-|   ?   | Cupid bench      |        ✔️        |        ❌         |        ❌        |
+|  14   | Anniversary cake |        🚧        |        ❌         |        ❌        |
+|  15   | Shopping cart    |        🚧        |        ❌         |        ❌        |
+|  16   | Nintendo DS Lite |        🚧        |        ❌         |        ❌        |
+|  17   | Snowman head     |        ✔️        |        ❌         |        ❌        |
+|  18   | Fedora chair     |        ✔️        |        ❌         |        ❌        |
+|  19   | Cupid bench      |        ✔️        |        ❌         |        ❌        |
 |  20   | Wildflower floor |        ✔️        |        ✔️        |       ✔️        |
 |   ?   | Guard's helmet   |        ✔️        |        ❌         |        ❌        |
 |   ?   | Banana split hat |        ✔️        |        ❌         |        ❌        |
@@ -154,7 +151,7 @@ During the preservation process, a couple uncertainties have been identified:
 |   ?   | Ghost umbrella   |        🚧         |
 |   ?   | Morning glory    |        🚧         |
 |   ?   | Eggplant cow     |        🚧         |
-|   ?   | Celebration hat  |         ❌         |
+|   ?   | Celebration hat  |        🚧         |
 |   ?   | Red team hat     |        🚧         |
 |   ?   | White team hat   |         ❌         |
 |   ?   | Anniversary cake |         ❌         |
@@ -202,46 +199,46 @@ During the preservation process, a couple uncertainties have been identified:
 ## Korea (``k``)
 | Index | Item             | Korean (``kr``) |
 |:-----:|:-----------------|:---------------:|
-|   ?   | Flower bouquet   |       ✔️        |
-|   ?   | Wii locker       |       ✔️        |
-|   ?   | Kimbap plate     |       ✔️        |
-|   ?   | School cap       |       ✔️        |
-|   ?   | White school cap |        ❌        |
-|   ?   | Red horned hat   |       ✔️        |
-|   ?   | Samgyetang bowl  |        ❌        |
-|   ?   | Shaved ice lamp  |        ❌        |
-|   ?   | White police cap |       ✔️        |
-|   ?   | Maple umbrella   |       ✔️        |
-|   ?   | Tteok plate      |        ❌        |
-|   ?   | Red nose         |        ❌        |
-|   ?   | Festive wreath   |       ✔️        |
-|   ?   | Golden bed       |        ❌        |
-|   ?   | Anniversary cake |        ❌        |
-|   ?   | Golden chair     |        ❌        |
-|   ?   | Golden dresser   |       ✔️        |
-|   ?   | Golden table     |       ✔️        |
-|   ?   | Golden closet    |        ❌        |
-|   ?   | Golden wallpaper |        ❌        |
-|   ?   | Golden man       |        ❌        |
+|   1   | Flower bouquet   |       ✔️        |
+|   2   | Wii locker       |       ✔️        |
+|   3   | Kimbap plate     |       ✔️        |
+|   4   | School cap       |       ✔️        |
+|   5   | White school cap |        ❌        |
+|   6   | Red horned hat   |       ✔️        |
+|   7   | Samgyetang bowl  |        ❌        |
+|   8   | Shaved ice lamp  |        ❌        |
+|   9   | White police cap |       ✔️        |
+|  10   | Maple umbrella   |       ✔️        |
+|  11   | Tteok plate      |        ❌        |
+|  12   | Red nose         |        ❌        |
+|  13   | Festive wreath   |       ✔️        |
+|  14   | Golden bed       |        ❌        |
+|  15   | Anniversary cake |        ❌        |
+|  16   | Golden chair     |        ❌        |
+|  17   | Golden dresser   |       ✔️        |
+|  18   | Golden table     |       ✔️        |
+|  19   | Golden closet    |        ❌        |
+|  20   | Golden wallpaper |        ❌        |
+|  21   | Golden man       |        ❌        |
 |  22   | Golden woman     |       ✔️        |
-|   ?   | Golden screen    |        ❌        |
-|   ?   | Golden bench     |        ❌        |
-|   ?   | Golden clock     |        ❌        |
-|   ?   | Golden carpet    |        ❌        |
-|   ?   | Snowman vanity   |        ❌        |
-|   ?   | Pavé clock       |        ❌        |
-|   ?   | Egg TV           |        ❌        |
-|   ?   | Sweets player    |        ❌        |
-|   ?   | Gracie dresser   |        ❌        |
-|   ?   | Creepy coffin    |        ❌        |
-|   ?   | Creepy bat stone |        ❌        |
-|   ?   | Creepy skeleton  |        ❌        |
-|   ?   | Creepy crystal   |        ❌        |
-|   ?   | Creepy carpet    |        ❌        |
-|   ?   | Creepy stone     |        ❌        |
-|   ?   | Creepy statue    |        ❌        |
-|   ?   | Creepy cauldron  |        ❌        |
-|   ?   | Creepy clock     |        ❌        |
-|   ?   | Creepy wallpaper |        ❌        |
-|   ?   | Mush hanger      |        ❌        |
-|   ?   | Jingle TV        |        ❌        |
+|  23   | Golden screen    |        ❌        |
+|  24   | Golden bench     |        ❌        |
+|  25   | Golden clock     |        ❌        |
+|  26   | Golden carpet    |        ❌        |
+|  27   | Snowman vanity   |        ❌        |
+|  28   | Pavé clock       |        ❌        |
+|  29   | Egg TV           |        ❌        |
+|  30   | Sweets player    |        ❌        |
+|  31   | Gracie dresser   |        ❌        |
+|  32   | Creepy coffin    |        ❌        |
+|  33   | Creepy bat stone |        ❌        |
+|  34   | Creepy skeleton  |        ❌        |
+|  35   | Creepy crystal   |        ❌        |
+|  36   | Creepy carpet    |        ❌        |
+|  37   | Creepy stone     |        ❌        |
+|  38   | Creepy statue    |        ❌        |
+|  39   | Creepy cauldron  |        ❌        |
+|  40   | Creepy clock     |        ❌        |
+|  41   | Creepy wallpaper |        ❌        |
+|  42   | Mush hanger      |        ❌        |
+|  43   | Jingle TV        |        ❌        |
