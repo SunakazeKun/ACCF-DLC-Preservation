@@ -27,12 +27,14 @@ During the preservation process, a couple uncertainties have been identified:
 | Index | Item             | English (``en``) | German (``de``) | Italian (``it``) | Spanish (``es``) | French (``fr``) |
 |:-----:|:-----------------|:----------------:|:---------------:|:----------------:|:----------------:|:---------------:|
 |   1   | Red Pikmin       |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|   1   | Red Pikmin       |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   2   | Shamrock hat     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   3   | Nintendo DSi W   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   4   | Flamenco hat     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   5   | Bus model        |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   6   | Green headgear   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   7   | Sand castle      |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|   7   | Sand castle      |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   8   | Eiffel Tower     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   9   | GameCube dresser |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  10   | Labrador model   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
@@ -71,6 +73,7 @@ During the preservation process, a couple uncertainties have been identified:
 |  43   | Creepy bat stone |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  44   | Creepy skeleton  |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  45   | Creepy crystal   |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
+|  45   | Creepy crystal   |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
 |  46   | Creepy carpet    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  47   | Creepy stone     |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  48   | Creepy statue    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |

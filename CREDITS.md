@@ -9,6 +9,7 @@ individuals helped in making these restorations possible.
 - emilyosaurus
 - Fewffwa
 - Joons Choi
+- Kodadehondachtige
 - Komojo
 - Peardude
 - Piers

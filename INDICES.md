@@ -61,6 +61,7 @@ and marked in parentheses.
 |  43   | (Creepy bat stone) | Egg TV           |       | (Jingle TV)                |
 |  44   | (Creepy skeleton)  | Sweets player    |       |                            |
 |  45   | (Creepy crystal)   | Gracie dresser   |       |                            |
+|  45   | Creepy crystal     | Gracie dresser   |       |                            |
 |  46   | (Creepy carpet)    | Creepy coffin    |       |                            |
 |  47   | (Creepy stone)     | Creepy bat stone |       |                            |
 |  48   | (Creepy statue)    | Creepy skeleton  |       |                            |
