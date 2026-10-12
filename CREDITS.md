@@ -11,6 +11,7 @@ individuals helped in making these restorations possible.
 - Joons Choi
 - Komojo
 - LilyBloomVee
+- Mike7493
 - Pascal Leroi
 - Peardude
 - Piers

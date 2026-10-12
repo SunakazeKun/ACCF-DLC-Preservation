@@ -106,21 +106,21 @@ During the preservation process, a couple uncertainties have been identified:
 |   ?   | Banana split hat |        ✔️        |        ❌         |        ❌        |
 |   ?   | Candy            |        ✔️        |        ❌         |        ❌        |
 |   ?   | Kapp'n model     |        ❌         |        ❌         |        ❌        |
-|   ?   | Wii locker       |        ✔️        |        ❌         |        ❌        |
+|  27   | Wii locker       |        ✔️        |        ❌         |        ❌        |
+|  28   | Golden bed       |        ✔️        |        ❌         |        ❌        |
 |   ?   | Snowman head     |        ✔️        |        ❌         |        ❌        |
-|  29   | Golden bed       |        ✔️        |        ❌         |        ❌        |
-|  30   | Golden chair     |        🚧        |        ❌         |        ❌        |
-|  31   | Golden dresser   |        🚧        |        ❌         |        ❌        |
-|  32   | Golden table     |        🚧        |        ❌         |        ❌        |
+|   ?   | Golden chair     |        🚧        |        ❌         |        ❌        |
+|   ?   | Golden dresser   |        ✔️        |        ❌         |        ❌        |
+|  32   | Golden table     |        ✔️        |        ❌         |        ❌        |
 |  33   | Golden closet    |        ✔️        |        ❌         |        ❌        |
 |  34   | Golden wallpaper |        ✔️        |        ❌         |        ❌        |
 |  35   | Golden man       |        ✔️        |        ✔️        |       ✔️        |
 |  36   | Golden woman     |        ✔️        |        ✔️        |       ✔️        |
 |  37   | Golden screen    |        ✔️        |        ✔️        |       ✔️        |
 |  38   | Golden bench     |        🚧        |        ❌         |        ❌        |
-|  39   | Golden clock     |        ❌         |        ❌         |        ❌        |
+|  39   | Golden clock     |        ✔️        |        ❌         |        ❌        |
 |  40   | Golden carpet    |        ✔️        |        ✔️        |       ✔️        |
-|  41   | Snowman vanity   |        ❌         |        ❌         |        ❌        |
+|  41   | Snowman vanity   |        ✔️        |        ❌         |        ❌        |
 |  42   | Pavé clock       |        ✔️        |        ❌         |        ❌        |
 |  43   | Egg TV           |        ✔️        |        ❌         |        ❌        |
 |  44   | Sweets player    |        ✔️        |        ✔️        |       ✔️        |
