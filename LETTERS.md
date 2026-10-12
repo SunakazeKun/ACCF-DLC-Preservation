@@ -27,54 +27,54 @@ During the preservation process, a couple uncertainties have been identified:
 | Index | Item             | English (``en``) | German (``de``) | Italian (``it``) | Spanish (``es``) | French (``fr``) |
 |:-----:|:-----------------|:----------------:|:---------------:|:----------------:|:----------------:|:---------------:|
 |   1   | Red Pikmin       |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
-|   2   | Shamrock hat     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|   3   | Nintendo DSi W   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|   4   | Flamenco hat     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|   5   | Bus model        |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|   6   | Green headgear   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|   2   | Shamrock hat     |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|   3   | Nintendo DSi W   |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|   4   | Flamenco hat     |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|   5   | Bus model        |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|   6   | Green headgear   |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |   7   | Sand castle      |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
-|   8   | Eiffel Tower     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|   9   | GameCube dresser |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  10   | Labrador model   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  11   | Chihuahua model  |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  12   | Dachshund model  |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  13   | Dalmatian model  |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  14   | Wii locker       |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  15   | Anniversary cake |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  16   | Festive wreath   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|   8   | Eiffel Tower     |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|   9   | GameCube dresser |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  10   | Labrador model   |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  11   | Chihuahua model  |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  12   | Dachshund model  |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  13   | Dalmatian model  |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  14   | Wii locker       |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  15   | Anniversary cake |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  16   | Festive wreath   |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  17   | Tam o'shanter    |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
-|  18   | Pavé clock       |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  19   | Egg TV           |        🚧        |       ✔️        |        ❌         |        ❌         |        ❌        |
-|  20   | Gracie dresser   |        🚧        |       🚧        |        🚧        |        🚧        |       🚧        |
-|  21   | Sweets player    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  18   | Pavé clock       |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  19   | Egg TV           |        ✔️        |       ✔️        |        ❌         |        ❌         |        ❌        |
+|  20   | Gracie dresser   |        ✔️        |       🚧        |        🚧        |        🚧        |       🚧        |
+|  21   | Sweets player    |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  22   | Mush hanger      |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  23   | Snowman vanity   |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  24   | Jingle TV        |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  25   | Golden bed       |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  24   | Jingle TV        |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  25   | Golden bed       |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  26   | Golden chair     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  27   | Golden dresser   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  28   | Golden table     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  29   | Golden closet    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  27   | Golden dresser   |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  28   | Golden table     |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  29   | Golden closet    |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  30   | Golden wallpaper |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  31   | Golden man       |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  31   | Golden man       |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  32   | Golden woman     |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  33   | Golden screen    |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
-|  34   | Golden bench     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  35   | Golden clock     |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  34   | Golden bench     |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  35   | Golden clock     |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  36   | Golden carpet    |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
-|  37   | Snowman vanity   |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
+|  37   | Snowman vanity   |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  38   | Pavé clock       |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  39   | Egg TV           |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  40   | Sweets player    |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  41   | Gracie dresser   |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  42   | Creepy coffin    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  43   | Creepy bat stone |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  44   | Creepy skeleton  |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  43   | Creepy bat stone |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  44   | Creepy skeleton  |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  45   | Creepy crystal   |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
-|  46   | Creepy carpet    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  47   | Creepy stone     |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
-|  48   | Creepy statue    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  49   | Creepy cauldron  |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
+|  46   | Creepy carpet    |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  47   | Creepy stone     |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  48   | Creepy statue    |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  49   | Creepy cauldron  |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  50   | Creepy clock     |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
 |  51   | Creepy wallpaper |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
 |  52   | Mush hanger      |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
@@ -109,7 +109,7 @@ During the preservation process, a couple uncertainties have been identified:
 |  27   | Wii locker       |        ✔️        |        ❌         |        ❌        |
 |  28   | Golden bed       |        ✔️        |        ❌         |        ❌        |
 |   ?   | Snowman head     |        ✔️        |        ❌         |        ❌        |
-|   ?   | Golden chair     |        🚧        |        ❌         |        ❌        |
+|   ?   | Golden chair     |        ✔️        |        ❌         |        ❌        |
 |   ?   | Golden dresser   |        ✔️        |        ❌         |        ❌        |
 |  32   | Golden table     |        ✔️        |        ❌         |        ❌        |
 |  33   | Golden closet    |        ✔️        |        ❌         |        ❌        |
