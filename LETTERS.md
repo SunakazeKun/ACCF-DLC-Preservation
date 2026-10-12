@@ -45,7 +45,7 @@ During the preservation process, a couple uncertainties have been identified:
 |  17   | Tam o'shanter    |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
 |  18   | Pavé clock       |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  19   | Egg TV           |        🚧        |       ✔️        |        ❌         |        ❌         |        ❌        |
-|  20   | Gracie dresser   |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  20   | Gracie dresser   |        🚧        |       🚧        |        🚧        |        🚧        |       🚧        |
 |  21   | Sweets player    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  22   | Mush hanger      |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  23   | Snowman vanity   |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
@@ -102,7 +102,7 @@ During the preservation process, a couple uncertainties have been identified:
 |  18   | Fedora chair     |        ✔️        |        ❌         |        ❌        |
 |  19   | Cupid bench      |        ✔️        |        ❌         |        ❌        |
 |  20   | Wildflower floor |        ✔️        |        ✔️        |       ✔️        |
-|   ?   | Guard's helmet   |        ✔️        |        ❌         |        ❌        |
+|   ?   | Guard's helmet   |        ✔️        |        🚧        |       🚧        |
 |   ?   | Banana split hat |        ✔️        |        ❌         |        ❌        |
 |   ?   | Candy            |        ✔️        |        ❌         |        ❌        |
 |   ?   | Kapp'n model     |        ❌         |        ❌         |        ❌        |
@@ -159,7 +159,7 @@ During the preservation process, a couple uncertainties have been identified:
 |   ?   | Hagoita          |         ❌         |
 |   ?   | Emperor's cap    |         ❌         |
 |   ?   | Blossom lantern  |         ❌         |
-|   ?   | Kintaro wig      |         ❌         |
+|   ?   | Kintaro wig      |        🚧         |
 |   ?   | Tsunokakushi     |         ❌         |
 |   ?   | Cucumber horse   |         ❌         |
 |   ?   | Sporty wall      |         ❌         |

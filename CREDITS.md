@@ -20,8 +20,9 @@ individuals helped in making these restorations possible.
 - Vile
 
 Further, a lot of letter screenshots were taken from various internet media, including:
-- Web blogs:
+- Websites & blogs:
   - http://ikeiweblog.seesaa.net/
+  - https://wiibrew.org/wiki/DiiLC
 - YouTube channels:
   - [97MiloProductions](https://www.youtube.com/@97MiloProductions)
   - [AnimalCrossingNews](https://www.youtube.com/@AnimalCrossingNews)
