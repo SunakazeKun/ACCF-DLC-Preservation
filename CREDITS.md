@@ -17,6 +17,7 @@ individuals helped in making these restorations possible.
 - Peardude
 - Piers
 - PlutosSpirit
+- St4tch
 - Totavier
 - Vile
 

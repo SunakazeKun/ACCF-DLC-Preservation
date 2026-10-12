@@ -18,10 +18,10 @@ in the file name (e.g. ``j_xx_jp_tokonoma``).
 
 During the preservation process, a couple uncertainties have been identified:
 - Some sources claim the "Nintendo DSi W" item was distributed in North America in 2010. However, no applicable sources have reliably confirmed this release.
-- The "snowman head" was distributed again in North America in December 2010. The English letter text matches the 2009 distribution as shown [in this video by 97MiloProductions](https://www.youtube.com/watch?v=xjQE9R1snbE).
+- The "snowman head" was distributed again in North America in December 2010 and/or January 2011. The English letter text matches the 2009 distribution as shown [in this video by 97MiloProductions](https://www.youtube.com/watch?v=xjQE9R1snbE).
 - [Player reports on The Bell Tree Forums](https://web.archive.org/web/20250831162149/https://www.belltreeforums.com/threads/new-us-dlc-candy.54363/) indicate that the candy distributed in September 2009 was either red, blue, or green. There appear to be no reports of yellow candy being distributed during this period.
 - Additionally, it remains unconfirmed whether individual letter texts were used for each candy color of if a single generic letter was used across all distributed colors.
-- Screenshots for the "creepy crystal" and "creepy cauldron" from videos on KirbyCrossing's YouTube channel appear to have been edited to show North American letter bodies. The header and footer texts shown are likely inaccurate, as Nintendo of America (NoA) used a different formatting style for creepy item distributions.
+- The Screenshot for the "creepy crystal" from a video on KirbyCrossing's YouTube channel appears to have been edited to show the North American letter body. The header and footer texts shown are likely inaccurate, as Nintendo of America (NoA) used a different formatting style for creepy item distributions.
 
 ## Europe/Australia (``p``)
 | Index | Item             | English (``en``) | German (``de``) | Italian (``it``) | Spanish (``es``) | French (``fr``) |
@@ -131,8 +131,8 @@ During the preservation process, a couple uncertainties have been identified:
 |  49   | Creepy crystal   |        🚧        |        ❌         |        ❌        |
 |  50   | Creepy carpet    |        ❌         |        ❌         |        ❌        |
 |  51   | Creepy stone     |        ✔️        |        ❌         |        ❌        |
-|  52   | Creepy statue    |        ❌         |        ❌         |        ❌        |
-|  53   | Creepy cauldron  |        🚧        |        ❌         |        ❌        |
+|  52   | Creepy statue    |        ✔️        |        ❌         |        ❌        |
+|  53   | Creepy cauldron  |        ✔️        |        ❌         |        ❌        |
 |  54   | Creepy clock     |        ✔️        |        ❌         |        ❌        |
 |  55   | Creepy wallpaper |        ✔️        |        ❌         |        ❌        |
 |  56   | Mush hanger      |        ✔️        |        ❌         |        ❌        |
