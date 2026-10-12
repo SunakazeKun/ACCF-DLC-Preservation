@@ -12,6 +12,7 @@ individuals helped in making these restorations possible.
 - Komojo
 - LilyBloomVee
 - Mike7493
+- mind_combatant
 - Pascal Leroi
 - Peardude
 - Piers

@@ -92,7 +92,7 @@ During the preservation process, a couple uncertainties have been identified:
 |   ?   | Dolphin model    |        🚧        |        🚧        |        ❌        |
 |   ?   | Ladder shades    |        🚧        |        ❌         |        ❌        |
 |   ?   | Hopscotch floor  |        ✔️        |        ❌         |        ❌        |
-|   ?   | GameCube dresser |        🚧        |        ❌         |        ❌        |
+|   ?   | GameCube dresser |        ✔️        |        ❌         |        ❌        |
 |  12   | Pile of leaves   |        ✔️        |        ❌         |        ❌        |
 |  13   | Election poster  |        ✔️        |        ✔️        |       ✔️        |
 |  14   | Anniversary cake |        🚧        |        ❌         |        ❌        |
@@ -117,7 +117,7 @@ During the preservation process, a couple uncertainties have been identified:
 |  35   | Golden man       |        ✔️        |        ✔️        |       ✔️        |
 |  36   | Golden woman     |        ✔️        |        ✔️        |       ✔️        |
 |  37   | Golden screen    |        ✔️        |        ✔️        |       ✔️        |
-|  38   | Golden bench     |        🚧        |        ❌         |        ❌        |
+|  38   | Golden bench     |        ✔️        |        ❌         |        ❌        |
 |  39   | Golden clock     |        ✔️        |        ❌         |        ❌        |
 |  40   | Golden carpet    |        ✔️        |        ✔️        |       ✔️        |
 |  41   | Snowman vanity   |        ✔️        |        ❌         |        ❌        |
