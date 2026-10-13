@@ -105,7 +105,7 @@ During the preservation process, a couple uncertainties have been identified:
 |   ?   | Guard's helmet   |        ✔️        |        🚧        |       🚧        |
 |   ?   | Banana split hat |        ✔️        |        ❌         |        ❌        |
 |   ?   | Candy            |        ✔️        |        ❌         |        ❌        |
-|   ?   | Kapp'n model     |        ❌         |        ❌         |        ❌        |
+|   ?   | Kapp'n model     |        ✔️        |        ❌         |        ❌        |
 |  27   | Wii locker       |        ✔️        |        ❌         |        ❌        |
 |  28   | Golden bed       |        ✔️        |        ❌         |        ❌        |
 |   ?   | Snowman head     |        ✔️        |        ❌         |        ❌        |
