@@ -1,9 +1,9 @@
 {
-  "index": -1,
-  "gift": 65521,
+  "index": null,
+  "gift": null,
   "paper": "CHINESE_PAPER",
   "sender": "Kapp'n",
-  "header": "Ahoy, !",
+  "header": "Ahoy, \n!",
   "body": [
     "Yar, answer me this, me",
     "wee little pirate fish... What",

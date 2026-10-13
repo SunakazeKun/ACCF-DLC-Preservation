@@ -1,9 +1,9 @@
 {
-  "index": -1,
-  "gift": 65521,
+  "index": null,
+  "gift": null,
   "paper": "RIBBON_PAPER",
   "sender": "Nintendo",
-  "header": "Dear ,",
+  "header": "Dear \n,",
   "body": [
     "We found this little",
     "treasure hidden at the end",

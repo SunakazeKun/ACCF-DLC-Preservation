@@ -1,9 +1,9 @@
 {
-  "index": -1,
-  "gift": 65521,
+  "index": null,
+  "gift": null,
   "paper": "TOWN_VIEW_PAPER",
   "sender": "Nintendo",
-  "header": "Dear ,",
+  "header": "Dear \n,",
   "body": [
     "Don't miss the bus! This",
     "bus takes you to the city,",

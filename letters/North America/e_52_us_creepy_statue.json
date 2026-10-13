@@ -1,9 +1,9 @@
 {
-  "index": -1,
-  "gift": 65521,
+  "index": null,
+  "gift": null,
   "paper": "MUSHROOM_PAPER",
   "sender": "Nintendo",
-  "header": "Dear ,",
+  "header": "Dear \n,",
   "body": [
     "When you display this item",
     "in your place, does it make",

@@ -1,9 +1,9 @@
 {
-  "index": -1,
-  "gift": 65521,
+  "index": null,
+  "gift": null,
   "paper": "FLOWERY_PAPER",
   "sender": "Nintendo",
-  "header": "Dear ,",
+  "header": "Dear \n,",
   "body": [
     "Look what bloomed in",
     "celebration of spring's",

@@ -1,9 +1,9 @@
 {
-  "index": -1,
-  "gift": 65521,
+  "index": null,
+  "gift": null,
   "paper": "MUSHROOM_PAPER",
   "sender": "Nintendo",
-  "header": "Dear ,",
+  "header": "Dear \n,",
   "body": [
     "Bubble, bubble, toil and",
     "trouble... Make your own",
