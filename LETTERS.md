@@ -69,9 +69,9 @@ During the preservation process, a couple uncertainties have been identified:
 |  41   | Gracie dresser   |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  42   | Creepy coffin    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  43   | Creepy bat stone |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  44   | Creepy skeleton  |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  44   | Creepy skeleton  |        ✔️        |        ❌        |        ❌         |        ❌         |       ✔️        |
 |  45   | Creepy crystal   |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
-|  46   | Creepy carpet    |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  46   | Creepy carpet    |        ✔️        |        ❌        |        ❌         |        ❌         |       ✔️        |
 |  47   | Creepy stone     |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  48   | Creepy statue    |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  49   | Creepy cauldron  |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |

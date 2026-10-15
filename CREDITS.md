@@ -6,6 +6,7 @@ individuals helped in making these restorations possible.
 - Aurum
 - akias
 - CheatingSoi
+- Demdraz
 - emilyosaurus
 - Fewffwa
 - Joons Choi
