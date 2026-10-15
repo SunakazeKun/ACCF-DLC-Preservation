@@ -44,7 +44,7 @@ Numerous sources were considered for preserving these designs. In fear that some
 - *Student uniform* and *red chanchanko* were discovered among various post attachments on the Game-Hackers forums.
 - *Mayor's flag* and *guard's uniform* were dumped from save data supplied by *emilyosaurus* on June 9, 2025 and double-checked using other American save files.
 - *Colorful hanbok*, *Hangul shirt*, and *Victory Korea shirt* were dumped from save data supplied by *Joons Choi* on October 2, 2026.
-- *Kintaro apron* was dumped from save data supplied by *Mike7493**on October 12, 2026.
+- *Kintaro apron* was dumped from save data supplied by *Mike7493* on October 12, 2026.
 
 ### Localized names
 - All localized names for the *flamenco dress* were found on and confirmed using the official Nintendo websites:
