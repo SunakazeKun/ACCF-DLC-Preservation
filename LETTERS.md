@@ -223,8 +223,8 @@ During the preservation process, a couple uncertainties have been identified:
 |  22   | Golden woman     |       ✔️        |
 |  23   | Golden screen    |        ❌        |
 |  24   | Golden bench     |        ❌        |
-|  25   | Golden clock     |        ❌        |
-|  26   | Golden carpet    |        ❌        |
+|  25   | Golden clock     |       🚧        |
+|  26   | Golden carpet    |       🚧        |
 |  27   | Snowman vanity   |        ❌        |
 |  28   | Pavé clock       |        ❌        |
 |  29   | Egg TV           |        ❌        |
