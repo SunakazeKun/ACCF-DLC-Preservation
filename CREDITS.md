@@ -25,6 +25,7 @@ individuals helped in making these restorations possible.
 
 Further, a lot of letter screenshots were taken from various internet media, including:
 - Websites & blogs:
+  - https://www.jvgs.net/accfblog/
   - https://blog.naver.com/snowdeer83
   - http://ikeiweblog.seesaa.net/
   - https://wiibrew.org/wiki/DiiLC

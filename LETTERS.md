@@ -21,7 +21,7 @@ During the preservation process, a couple uncertainties have been identified:
 - The "snowman head" was distributed again in North America in December 2010 and/or January 2011. The English letter text matches the 2009 distribution as shown [in this video by 97MiloProductions](https://www.youtube.com/watch?v=xjQE9R1snbE).
 - [Player reports on The Bell Tree Forums](https://web.archive.org/web/20250831162149/https://www.belltreeforums.com/threads/new-us-dlc-candy.54363/) indicate that the candy distributed in September 2009 was either red, blue, or green. There appear to be no reports of yellow candy being distributed during this period.
 - Additionally, it remains unconfirmed whether individual letter texts were used for each candy color of if a single generic letter was used across all distributed colors.
-- The Screenshot for the "creepy crystal" from a video on KirbyCrossing's YouTube channel appears to have been edited to show the North American letter body. The header and footer texts shown are likely inaccurate, as Nintendo of America (NoA) used a different formatting style for creepy item distributions.
+- [Jeff's ACCF blog](https://www.jvgs.net/accfblog/2012/08/01/creepy-carpet-dlc/) reveals that the creepy carpet distribution letter in North America erroneously mentions the creepy wallpaper instead. It's likely that NOA mixed up these two distributions. 
 
 ## Europe/Australia (``p``)
 | Index | Item             | English (``en``) | German (``de``) | Italian (``it``) | Spanish (``es``) | French (``fr``) |
@@ -125,11 +125,11 @@ During the preservation process, a couple uncertainties have been identified:
 |  43   | Egg TV           |        ✔️        |        ❌         |        ❌        |
 |  44   | Sweets player    |        ✔️        |        ✔️        |       ✔️        |
 |  45   | Gracie dresser   |        ✔️        |        ❌         |        ❌        |
-|  46   | Creepy coffin    |        ❌         |        ❌         |        ❌        |
-|  47   | Creepy bat stone |        ❌         |        ❌         |        ❌        |
+|  46   | Creepy coffin    |        🚧        |        ❌         |        ❌        |
+|  47   | Creepy bat stone |        🚧        |        ❌         |        ❌        |
 |  48   | Creepy skeleton  |        ✔️        |        ❌         |        ❌        |
 |  49   | Creepy crystal   |        🚧        |        ❌         |        ❌        |
-|  50   | Creepy carpet    |        ❌         |        ❌         |        ❌        |
+|  50   | Creepy carpet    |        ✔️        |        ❌         |        ❌        |
 |  51   | Creepy stone     |        ✔️        |        ❌         |        ❌        |
 |  52   | Creepy statue    |        ✔️        |        ❌         |        ❌        |
 |  53   | Creepy cauldron  |        ✔️        |        ❌         |        ❌        |
