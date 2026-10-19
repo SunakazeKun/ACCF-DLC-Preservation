@@ -9,10 +9,9 @@ and marked in parentheses.
 ## Patterns
 | Index | Europe/Australia | North America   | Japan              | Korea               |
 |:-----:|:-----------------|:----------------|:-------------------|:--------------------|
-|   1   | Flamenco dress   |                 | (Student uniform?) | Victory Korea shirt |
-|   2   | Dirndl dress     |                 | (Red chanchanko?)  | Colorful hanbok     |
+|   1   | Flamenco dress   | Mayor's flag    | (Student uniform?) | Victory Korea shirt |
+|   2   | Dirndl dress     | Guard's uniform | (Red chanchanko?)  | Colorful hanbok     |
 |   3   |                  | Mayor's flag    | (Kintaro apron?)   | Hangul shirt        |
-|   ?   |                  | Guard's uniform |                    |                     |
 
 ## Letters
 | Index | Europe/Australia   | North America      | Japan | Korea                      |
