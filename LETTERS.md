@@ -144,7 +144,7 @@ During the preservation process, a couple uncertainties have been identified:
 |   ?   | Red Pikmin       |        🚧         |
 |   ?   | Top              |        🚧         |
 |   ?   | Chocolate heart  |        🚧         |
-|   ?   | Girl's Day updo  |         ❌         |
+|   ?   | Girl's Day updo  |        🚧         |
 |   ?   | Tokonoma         |        🚧         |
 |   ?   | Student cap      |        🚧         |
 |   ?   | Carp banner      |        🚧         |

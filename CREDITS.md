@@ -27,6 +27,7 @@ Further, a lot of letter screenshots were taken from various internet media, inc
 - Websites & blogs:
   - https://www.jvgs.net/accfblog/
   - https://blog.naver.com/snowdeer83
+  - https://ameblo.jp/30mika
   - http://ikeiweblog.seesaa.net/
   - https://wiibrew.org/wiki/DiiLC
 - YouTube channels:
