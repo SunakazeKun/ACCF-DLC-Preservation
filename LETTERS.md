@@ -205,7 +205,7 @@ During the preservation process, a couple uncertainties have been identified:
 |   4   | School cap       |       ✔️        |
 |   5   | White school cap |        ❌        |
 |   6   | Red horned hat   |       ✔️        |
-|   7   | Samgyetang bowl  |        ❌        |
+|   7   | Samgyetang bowl  |       🚧        |
 |   8   | Shaved ice lamp  |        ❌        |
 |   9   | White police cap |       ✔️        |
 |  10   | Maple umbrella   |       ✔️        |
