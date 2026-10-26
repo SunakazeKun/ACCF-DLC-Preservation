@@ -59,19 +59,19 @@ During the preservation process, a couple uncertainties have been identified:
 |  31   | Golden man       |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  32   | Golden woman     |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  33   | Golden screen    |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
-|  34   | Golden bench     |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
+|  34   | Golden bench     |        ✔️        |       ✔️        |        ❌         |        ❌         |        ❌        |
 |  35   | Golden clock     |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  36   | Golden carpet    |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
 |  37   | Snowman vanity   |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  38   | Pavé clock       |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  39   | Egg TV           |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
 |  40   | Sweets player    |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
-|  41   | Gracie dresser   |        ❌         |        ❌        |        ❌         |        ❌         |        ❌        |
-|  42   | Creepy coffin    |        🚧        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  43   | Creepy bat stone |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
-|  44   | Creepy skeleton  |        ✔️        |        ❌        |        ❌         |        ❌         |       ✔️        |
+|  41   | Gracie dresser   |        ❌         |       ✔️        |        ❌         |        ❌         |        ❌        |
+|  42   | Creepy coffin    |        🚧        |       ✔️        |        ❌         |        ❌         |        ❌        |
+|  43   | Creepy bat stone |        ✔️        |       ✔️        |        ❌         |        ❌         |        ❌        |
+|  44   | Creepy skeleton  |        ✔️        |       ✔️        |        ❌         |        ❌         |       ✔️        |
 |  45   | Creepy crystal   |        ✔️        |       ✔️        |        ✔️        |        ✔️        |       ✔️        |
-|  46   | Creepy carpet    |        ✔️        |        ❌        |        ❌         |        ❌         |       ✔️        |
+|  46   | Creepy carpet    |        ✔️        |       ✔️        |        ❌         |        ❌         |       ✔️        |
 |  47   | Creepy stone     |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  48   | Creepy statue    |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
 |  49   | Creepy cauldron  |        ✔️        |        ❌        |        ❌         |        ❌         |        ❌        |
